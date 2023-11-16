@@ -1,7 +1,7 @@
-## ThumbFetch
+## ThumbFetch 🚨
 
-# App simples para fazer download das thumnails de videos do YouTube ou sites de imagens com url como o PixBay e outros.
-# Feito usando html, css, Js e PHP.
+### App simples para fazer download das thumnails de videos do YouTube ou sites de imagens com url como o PixBay e outros.
+### Feito usando html, css, Js e PHP.
 
 # 💪 Getting Started 💪
 
@@ -42,6 +42,9 @@
 - O app recuperá a thumbnail e sugirirá ao navegador o download, voce poderá concluir o inicio do download clicando no ícone.
 
 ## 🛠️ APRESENTAÇÃO
+
+<img width="664" alt="image" src="https://github.com/SuzukiJhor/ThumbFetch/assets/95131108/fe77b408-b645-4d7c-b276-cd42aadd3b61">
+
 
 
 
